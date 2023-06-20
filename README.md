@@ -1,14 +1,7 @@
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQESS_ehgqJXDg/profile-displaybackgroundimage-shrink_350_1400/0/1673861242099?e=1692835200&v=beta&t=L1gSqW20x0MOTprCxsy87zKiSPFos3UIHtZgRlwJzeY)
  
-I am always ready to learn new things to build my career in challenging and dynamic profession as well as to become a specialist in technical with committed & dedicated people, which will help me to explore myself fully and realize my potential. To achieve my objective I am fully prepared to show my honesty, hard work, patience, physical and mental fitness, and sufficient confidence along with merit encountering any sort of diverse situation.
-
-
-- 🔭 I’m currently working on CMSN  Network 
-
-
-
-
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -39,7 +32,12 @@ I am always ready to learn new things to build my career in challenging and dyna
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am a Full Stack Developer with a huge love for React.js,, Next JS, Angular JS,NGRX JS, RX JS, Laravel,CodeIgniter, PHP, JavaScript, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, 
+I am always ready to learn new things to build my career in challenging and dynamic profession as well as to become a specialist in technical with committed & dedicated people, which will help me to explore myself fully and realize my potential. To achieve my objective I am fully prepared to show my honesty, hard work, patience, physical and mental fitness, and sufficient confidence along with merit encountering any sort of diverse situation.
+
+- 🔭 I’m currently working on CMSN  Network 
+
+
+I am a Full Stack Developer with a huge love for React.js,, Next JS, Angular JS, NGRX JS, RX JS, Laravel,CodeIgniter, PHP, JavaScript, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, 
 
 I am the co-founder of [softstation71](https://softstation71.com/). I Actively code on Laravel and codeigiter, Angular, NGRX, React and Next Js.
 
