@@ -1,6 +1,6 @@
+ 
+ ![Web Developer](https://media.licdn.com/dms/image/D5616AQESS_ehgqJXDg/profile-displaybackgroundimage-shrink_350_1400/0/1673861242099?e=1692835200&v=beta&t=L1gSqW20x0MOTprCxsy87zKiSPFos3UIHtZgRlwJzeY)
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-![Web Developer](https://media.licdn.com/dms/image/D5616AQESS_ehgqJXDg/profile-displaybackgroundimage-shrink_350_1400/0/1673861242099?e=1692835200&v=beta&t=L1gSqW20x0MOTprCxsy87zKiSPFos3UIHtZgRlwJzeY)
  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
