@@ -72,7 +72,7 @@ server.
 14) Designing and implementing scalable and efficient databases to store and retrieve data
 ### Some of my project links  Below here: 
 ### Websites
-[Website-retinabd](https://retinabd.org) 
+
 [Website-greenarchitectbd](https://greenarchitectbd.com)  
 [Website-cmsnbd](https://www.cmsnbd.com)  
 [Website-cmsngroup](https://cmsngroup.com.au)  
